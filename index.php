@@ -1,23 +1,28 @@
-<DOCTYPE html>
+<?php
+// Tu pourras placer ta logique PHP ici plus tard (variables, GET, POST, etc.)
+?>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title> My first web site </title>
+    <title>My first web site </title>
     <link rel="stylesheet" href="fichiercss.css">
     <script src="fichierjavascript.js"></script>
 </head>
-<body> 
+<body>
 
     <h1> VIENS APPRENDRE A CODER !</h1>
     <p id="paragraphe1">
-         Bonjour et bienvenu! 
+        Bonjour et bienvenue!
 
         Sur ce site tu pourras découvrir et tester pleins de choses !
         Tu pourras apprendre à coder en python, en c, en c++, et javascript et en beaucoup d'autres langages de programmation</p>
 
     <h2>PREMIERS COURS DE PROGRAMMATION</h2>
-    <p>Choisis le langage que tu veux appendre !</p>
-    
+    <p>Choisis le langage que tu veux apprendre !</p>
+
+</body>
+</html>
    
     
  
