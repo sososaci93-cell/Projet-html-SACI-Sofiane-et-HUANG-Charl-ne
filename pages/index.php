@@ -27,7 +27,7 @@ $img_c="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAyV
         <div class="langages">
 
             <a href="python.php">
-                <img src="<?php echo $img_python;?>" alt="formation Python"> </a>
+                <img src="<?php echo $img_python; ?>" alt="formation Python"> </a>
             
         </div>
 
