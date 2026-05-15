@@ -7,7 +7,7 @@ $img_c="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAyV
 <head>
     <meta charset="UTF-8">
     <title>My first web site </title>
-    <link rel="stylesheet" href="fichiercss.css">
+    <link rel="stylesheet" href="CSS/fichiercss.css">
     <script src="fichierjavascript.js"></script>
 </head>
 <body>
@@ -30,6 +30,12 @@ $img_c="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAyV
                 <img src="<?php echo $img_python; ?>" alt="formation Python"> </a>
             
         </div>
+        <div class="C">
+    <a href="C.php">
+        <img src="<?php echo $img_c; ?>" alt="formation C">
+    </a>
+</div>
+
 
     
 
