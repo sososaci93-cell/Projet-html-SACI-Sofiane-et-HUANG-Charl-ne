@@ -1,5 +1,6 @@
 
 
+
 body {
     background-color: #aad6e4;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -8,7 +9,6 @@ body {
     margin: 0;
     padding: 20px;
 }
-
 
 h1, h2 {
     text-align: center;
@@ -54,4 +54,11 @@ h2 {
 
 .langages img:hover {
     transform: scale(1.1);
+}
+
+.var {
+
+    font-size: 40px;
+    margin-left: -350px;
+    margin-top: 200px;
 }
