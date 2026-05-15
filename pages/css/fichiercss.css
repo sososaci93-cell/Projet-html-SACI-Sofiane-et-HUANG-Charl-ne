@@ -1,6 +1,7 @@
 
 
 
+
 body {
     background-color: #aad6e4;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -52,13 +53,28 @@ h2 {
 }
 
 
-.langages img:hover {
+.langages img:hover,.C img:hover {
     transform: scale(1.1);
 }
 
 .var {
 
     font-size: 40px;
-    margin-left: -350px;
+    margin-left: -310px;
     margin-top: 200px;
 }
+
+.conteneur-lecons .langages img {
+    width: 400px;  /* Tu peux augmenter ce chiffre (ex: 700px, 800px) */
+    height: auto;  /* Garde les proportions de l'image pour ne pas la déformer */
+    margin-left: 0; /* Bien collée à gauche */
+    border-radius: 15px; /* Optionnel : pour des coins arrondis sympas */
+}
+
+.C{
+    margin-left: 300px;
+    margin-top: -170px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
