@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="CSS/fichiercss.css">
     <script src="fichierjavascript.js"></script>
 </head>
-<body>
+<body class="page-python">>
     <h1> Bienvenu sur la formation Python !</h1>
 
     <?php //division generale "conteneur-lecon" ?>
@@ -24,6 +24,7 @@
     </div> 
 
 
+
     <?php //deuxieme division "bloc2" ?>
     <div class="bloc2">
         <p class="liste">Les listes</p> 
@@ -34,12 +35,24 @@
         </div>
     </div> 
 
+
     <?php //troisieme division "bloc3" ?>
     <div class="bloc3">
         <p class="boucle">Les boucles</p> 
         <div class="boucle">
             <a href="boucle.php">
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvtJPnmseeO_2IvhQGJRhPqERnJGqyQ9XSsA&s" alt="Leçon-Boucles">
+            </a>
+        </div>
+    </div>
+
+
+<?php //quatrieme division "bloc4" ?>
+    <div class="bloc4">
+        <p class="dictionnaire">Les dictionnaires</p> 
+        <div class="dictionnaire">
+            <a href="dictionnaire.php">
+                <img src="https://user.oc-static.com/upload/2023/04/29/16827780421019_image9.png" alt="Leçon-Dictionnaires">
             </a>
         </div>
     </div>
