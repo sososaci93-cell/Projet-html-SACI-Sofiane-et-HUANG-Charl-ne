@@ -14,10 +14,10 @@ $img_c="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAyV
 
     <h1> VIENS APPRENDRE A CODER !</h1>
     <p id="paragraphe1">
-        Bonjour et bienvenue!
+        Bonjour et bienvenu(e) !
 
-        Sur ce site tu pourras découvrir et tester pleins de choses !
-        Tu pourras apprendre à coder en python, en c, en c++, et javascript et en beaucoup d'autres langages de programmation</p>
+        Sur ce site tu pourras découvrir et apprendre quelques langages de programmation !
+        Tu pourras apprendre à coder en python, en c, en c++ et en bien d'autres langages !</p>
 
     <h2>PREMIERS COURS DE PROGRAMMATION</h2>
     <p>Choisis le langage que tu veux apprendre !</p>
@@ -41,5 +41,4 @@ $img_c="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAyV
 
 </body>
 </html>
-    
  
