@@ -41,6 +41,5 @@ $img_c="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAyV
 
 </body>
 </html>
-   
     
  
