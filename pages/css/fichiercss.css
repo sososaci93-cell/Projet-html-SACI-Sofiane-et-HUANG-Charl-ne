@@ -1,6 +1,4 @@
 
-
-
 body {
     background-color: #aad6e4;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -52,22 +50,23 @@ h2 {
 }
 
 
-.langages img:hover,.C img:hover {
+.langages img:hover,.C img:hover,.liste img:hover {
     transform: scale(1.1);
 }
 
 .var {
-
-    font-size: 40px;
+    color: #000000;
+    font-size: 50px;
     margin-left: -310px;
     margin-top: 200px;
+    font-weight: bold;
 }
 
 .conteneur-lecons .langages img {
     width: 400px;  
-    height: auto; 
-    margin-left: 0;
-    border-radius: 15px; 
+    height: auto;  
+    margin-left: 0; 
+    border-radius: 15px;
 }
 
 .C{
@@ -75,6 +74,25 @@ h2 {
     margin-top: -170px;
     cursor: pointer;
     border-radius: 10px;
+}
+
+.liste img {
+    width: 350px;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    margin-left: 500px;
+    margin-top: -140px;
+    transition: transform 0.3s ease;
+}
+
+.bloc2 p.liste {
+    color: #000000;
+    font-size: 50px;
+    font-weight: bold;
+    transform: translateY(-190px) translateX(-520px);
+    margin-top: -90px;
+
 }
 
 
