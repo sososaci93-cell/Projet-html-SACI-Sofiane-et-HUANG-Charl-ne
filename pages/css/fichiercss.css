@@ -1,12 +1,20 @@
 
-
 body {
-    background-color: #aad6e4;
+   background: linear-gradient(to bottom, #7d2303, #bbb3d4);
+    min-height: 100vh;
+    background-attachment: fixed;
+    margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #333;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
+}
+
+body.page-python {
+    background: linear-gradient(135deg, #a20685 0%, #8ec5fc 100%);
+
+
 }
 
 h1, h2 {
@@ -31,7 +39,8 @@ h2 {
     text-align: center;
     max-width: 900px;
     margin: 15px auto; 
-    font-size: 1.4rem;
+    font-size: 35px;
+    color:white;
 }
 
 
