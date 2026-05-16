@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="CSS/fichiercss.css">
     <script src="fichierjavascript.js"></script>
 </head>
-<body class="page-python">>
+<body class="page-python">
     <h1> Bienvenu sur la formation Python !</h1>
 
     <?php //division generale "conteneur-lecon" ?>
