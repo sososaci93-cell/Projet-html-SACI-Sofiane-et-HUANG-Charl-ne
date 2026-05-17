@@ -17,7 +17,7 @@
     <div class="bloc1">
         <p class="var">Les variables</p>
         <div class="langages">
-            <a href="variable.php">
+            <a href="variables.php">
                 <img src="https://blog.penjee.com/wp-content/uploads/2020/06/several-examples-of-Python-variables.png" alt="Leçon-Variables">
             </a>
         </div>
